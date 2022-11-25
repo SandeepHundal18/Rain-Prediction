@@ -1,1 +1,1 @@
-# Rain-Prediction
+In this project, a classifier is build to predict whether there will be rain the following day. We have used a rainfall dataset from Australian Government's Bureau of Meteorology , cleaned the data, and applied different classification algorithm on the data.
